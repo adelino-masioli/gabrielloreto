@@ -5,9 +5,9 @@
 //$dbname = "gabriellorettocontato";
 
 $servername = "localhost";
-$dbname = "admin_gloreto";
-$username = "admin_gloreto";
-$password = "@gloretocontato2018";
+$dbname = "xxxxxxxxxxxxx";
+$username = "xxxxxxxxxxx";
+$password = "xxxxxxxxxxxx";
 
 
 // Create connection
